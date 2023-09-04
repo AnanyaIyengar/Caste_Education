@@ -127,4 +127,32 @@ clean_and_merge <- function(sc, st, sc_edu, st_edu) {
   return (combined)
 }
 
+################################################################################
+
+sessionsInfo()
+
+#Session Info Details
+R version 4.2.1 (2022-06-23 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 22621)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_India.utf8  LC_CTYPE=English_India.utf8    LC_MONETARY=English_India.utf8
+[4] LC_NUMERIC=C                   LC_TIME=English_India.utf8    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.6 dplyr_1.0.10  readxl_1.4.1 
+
+loaded via a namespace (and not attached):
+ [1] rstudioapi_0.14  magrittr_2.0.3   munsell_0.5.0    tidyselect_1.1.2 colorspace_2.0-3 R6_2.5.1        
+ [7] rlang_1.0.6      fansi_1.0.3      tools_4.2.1      grid_4.2.1       gtable_0.3.1     utf8_1.2.2      
+[13] cli_3.4.1        DBI_1.1.3        withr_2.5.0      ellipsis_0.3.2   assertthat_0.2.1 tibble_3.1.8    
+[19] lifecycle_1.0.2  purrr_0.3.4      vctrs_0.4.2      glue_1.6.2       compiler_4.2.1   pillar_1.8.1    
+[25] cellranger_1.1.0 generics_0.1.3   scales_1.2.1     pkgconfig_2.0.3 
+
 
