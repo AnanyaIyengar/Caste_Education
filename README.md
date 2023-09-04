@@ -20,3 +20,5 @@ Set the folder the data is stored in as Working Directory. Note that all R scrip
 Download the data_cleaning_and_merging.R script, and open it in RStudio. Change the path to the Working Directory as on your machine, and run the script. This script gives a function to apply to all data sets. 
 #### Step 4:
 Download the states_import.R script, and open it in RStudio. Set the Working Directory as on your machine, and run the script to get cleaned and merged data sets. 
+#### Step 5:
+Download the graphing.R script, and open it in RStudip. Set the Working Directory as on your machine, and run the script to get graphs. 
