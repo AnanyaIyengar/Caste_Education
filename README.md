@@ -21,4 +21,4 @@ Download the data_cleaning_and_merging.R script, and open it in RStudio. Change 
 #### Step 4:
 Download the states_import.R script, and open it in RStudio. Set the Working Directory as on your machine, and run the script to get cleaned and merged data sets. 
 #### Step 5:
-Download the graphing.R script, and open it in RStudip. Set the Working Directory as on your machine, and run the script to get graphs. 
+Download the graphing.R script, and open it in RStudio. Set the Working Directory as on your machine, and run the script to get graphs. 
